@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265192025359",
+    "project_id": "final-challenge-seanwho",
+    "storage_bucket": "final-challenge-seanwho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265192025359:android:b9ae12d2d95188d72fe27a",
+        "android_client_info": {
+          "package_name": "com.seanwhofinalchellenge.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0epQh7PFNUsuv8qw8AxqmqG7uBvMvW-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
